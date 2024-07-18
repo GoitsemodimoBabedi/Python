@@ -1,1 +1,2 @@
 # Python
+I've always loved differential equations and how they can be used to help us solve and understand certain problems in our real world so through my study of Applied Maths I've found that one can solve differential equations with computers only approximately of course. This repository holds my exploration and experimentation with various numerical methods to solve mathematical problems ranging from simple Differentiantion,Integration all the way to Interpolation.
